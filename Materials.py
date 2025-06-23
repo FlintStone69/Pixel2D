@@ -6,7 +6,7 @@ class Material:
         self.Type = Name
         self.Color = Color
         self.Weight = Weight
-        self.FallB = fall
+        self.Fall = fall
 
 
 Materials = []

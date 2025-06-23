@@ -1,4 +1,4 @@
-from Includ import *
+from Includ import Window
 
 Game = Window()
 
